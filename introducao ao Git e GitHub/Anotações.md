@@ -11,7 +11,8 @@
     
 
 - Git
-
+  - ver status dos arquivos
+    - git status 
   - baixar repositório na máquina
     - git clone git@github.com:willlianrusso/estudos-programacao.git
   - adicionar alteração para commit
@@ -20,6 +21,8 @@
     - git commit -m "descrição do commit"
   - enviar para o GitHub
     - git push origin main
+  - puxar atualização do gitHub
+    - git pull 
 
 
 
